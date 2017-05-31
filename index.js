@@ -1,6 +1,6 @@
 module.exports = {
     extends: [
-        './babel.js'
+        './babel.js',
         './base.js',
         './react.js'
     ]
